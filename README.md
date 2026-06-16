@@ -57,13 +57,14 @@ This project solves these challenges through two sub-projects:
 
 - **Role of reports:** Align financial planning with strategic goals. Instil confidence in the organisation's financial outlook.
 
-- Automated calculations and structured reporting to reduce manual effort
+
 
 ---
 
 ### **Result:**  
 - Enabled performance tracking across **5 fiscal years, months and quarters**  
-- Identified **top-performing customers contributing the highest share of total revenue**  
+- Identified **top-performing customers contributing the highest share of total revenue**
+- Automated calculations and structured reporting to reduce manual effort
 - Highlighted underperforming markets using target variance analysis  
 - Improved reporting efficiency and reduced manual calculation errors  
 - Delivered executive-ready performance reports supporting data-driven decision-making  
